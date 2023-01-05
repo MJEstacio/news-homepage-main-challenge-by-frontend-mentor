@@ -1,5 +1,7 @@
+
 # news-homepage-main-challenge-by-frontend-mentor
 
+>>>>>>> 55552e0c43804cf38ba6d6d20276df59bd9403b3
 ## Table of contents
 
 - [Overview](#overview)
